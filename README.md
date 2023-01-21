@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="400px" height="200px">
-
 ### Hi there, I'm Furkan. :blush:
 
 ## Web Developer | Computer Programming
