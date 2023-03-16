@@ -2,7 +2,7 @@
 
 ## Web Developer | Computer Programming
 
-<font color="pink">I am currently learning Vue</font>
+### I'm currently learning Vue
 
 ### Reach Out To Me
 
