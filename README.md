@@ -2,7 +2,7 @@
 
 ### Web Developer | Computer Programming
 
-### 👋 I'm currently learning Vue
+### I'm currently learning Vue 👋
 
 ### Reach Out To Me
 
